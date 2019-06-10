@@ -5,7 +5,7 @@ class Berita {
   String Deskipsi;
   String image_url;
 
-   Berita.isi_berita(String judul, String tanggal, String tahun, String deskripsi, String image_url){
+   Berita.isiBerita(String judul, String tanggal, String tahun, String deskripsi, String image_url){
       this.Judul = judul;
       this.Tanggal = tanggal;
       this.Tahun = tahun;
